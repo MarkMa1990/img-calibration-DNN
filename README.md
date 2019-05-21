@@ -12,6 +12,9 @@ The illustration figure comes from [Opt. Express](https://doi.org/10.1364/OE.25.
 ## change colormap ##
 ![change colormap](https://github.com/MarkMa1990/img-calibration-DNN/blob/master/results/change_colormap.png)
 
+## the network structure ##
+![learning network](https://github.com/MarkMa1990/img-calibration-DNN/blob/master/network-show/nn-crop.png)
+
 ## learning state ##
 ![learning](https://github.com/MarkMa1990/img-calibration-DNN/blob/master/results/learning.png)
 
